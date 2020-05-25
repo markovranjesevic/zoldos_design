@@ -1,0 +1,71 @@
+#banner {
+  padding: 16em 0 13em 0;
+  background-image: url("/assets/images/overlay.png"), url("/assets/images/banner.jpg");
+  background-attachment: fixed;
+  background-position: center top;
+  background-size: cover;
+  line-height: 1.75;
+  text-align: center;
+  height: 60vh;
+}
+
+#banner h2 {
+  color: #ffffff;
+  display: inline-block;
+  font-size: 3.5em;
+  line-height: 1.35;
+  margin-bottom: 0.5em;
+  margin-top: 2em;
+}
+
+#banner p {
+  color: #aaa;
+  font-size: 1.5em;
+  margin-bottom: 1.75em;
+  text-transform: uppercase;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.team {
+  width: 100%;
+  height: 80vh;
+  background-image: url("/assets/images/team1.jpg");
+  background-size: cover;
+  background-position-y: 30%;
+}
+
+h2{
+  color: #484848;
+  font-weight: 700;
+  line-height: 1em;
+  margin: 1em 0 1em 0;
+  text-transform: uppercase;
+  display: inline-block;
+  text-align: center;
+}
+
+p{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+.major {
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+  align-content: center;
+}
+
+.blog post {
+  text-align: center;
+  align-content: center;
+}

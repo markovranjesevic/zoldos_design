@@ -1,0 +1,39 @@
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  font-family: Helvetica;
+
+  li {
+    display: inline-block;
+    margin: 50px 10px 0 60px;
+    text-transform: uppercase;
+    a {
+      text-decoration: none;
+    }
+  }
+}
+
+h1 {
+  color: #ffffff;
+  font-weight: 700;
+  line-height: 1em;
+  margin: 0 10px;
+  text-transform: uppercase;
+}
+
+nav{
+  height: inherit;
+  line-height: inherit;
+  position: absolute;
+  right: 1.25em;
+  top: 0;
+  vertical-align: middle;
+}
+
+img{
+display: inline-block;
+  width: 70px;
+  margin: 30px 150px;
+}
